@@ -6,9 +6,11 @@ __pycache__/
 
 .env
 
-generated_docs/
+generated_docs/*
+!generated_docs/.gitkeep
 
-logs/
+logs/*
+!logs/.gitkeep
 
 .vscode/
 
